@@ -10,5 +10,4 @@ ReactDOM.render( // reactの機能を使って()内のものを画面上に表�
     　　　　　　　　　　　　　　　　// 更に、toDoList={list}という部分で、このreactコンポーネントにlistを渡しているよ
     document.getElementById('root')
 );
-
 serviceWorker.unregister();
